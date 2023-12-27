@@ -1,2 +1,2 @@
-# Graphics-and-Visual-Computing
-Aprilyanto Setiyawan Siburian - 24060121120022 - B2
+# Graphics and Visual Computing
+Graphics and Visual Computing is part of Computer Science that explores the concepts of computer graphics and digital image processing. This covers the concepts and differences between computer graphics and digital image processing. The topics include the construction of primitives in computer graphics and various manipulation techniques applied to primitive objects. Primitives are discussed in both two and three dimensions. Additionally, this addresses the steps involved in creating an animation. In the realm of digital image processing, this delves into the concepts of digital images and techniques that can be employed in the manipulation and processing of digital images.
